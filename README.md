@@ -13,13 +13,11 @@
     2) Les balises astérisques ou étoiles doubles (\*\*) placées avant et après la chaîne de caractères cible remettra cette chaîne de caractères en gras. Exemple :
 <br>\*\*cahier\*\* produira **cahier**
     3) Placer la balise chevron (>) avant une chaîne de caractères remettra cette chaîne dans le style de citation. Visuellement, la citation se voit par une barre verticale grise devant le texte qui apparaît également en gris avec une indentation par rapport au début de page (c'est-à-dire, par rapport à l’alignement des textes sans mise en forme particulière, par exemple sans forme de citation ou de liste). Exemple :
-        <br>\> « Faites que le rêve dévore votre vie afin que la vie ne dévore pas votre rêve. »
-<br>__(Antoine de Saint-Exupéry, « Le petit prince »)</font>
+        <br>\> « Faites que le rêve dévore votre vie afin que la vie ne dévore pas votre rêve. » (Antoine de Saint-Exupéry, « Le petit prince »)
 
        produira
 
-> « Faites que le rêve dévore votre vie afin que la vie ne dévore pas votre rêve. »
-<br>__(Antoine de Saint-Exupéry, « Le petit prince »)
+> « Faites que le rêve dévore votre vie afin que la vie ne dévore pas votre rêve. » (Antoine de Saint-Exupéry, « Le petit prince »)
 
 - _À quoi correspondent les unités suivantes : PX, VW et EM ? Donnez le plus de détails possible._
 <br><ins>Réponse</ins> : PX, VW et EM sont des éléments d’un fichier CSS, qui est un fichier de modification de l’apparence des éléments d’une page web. Ces éléments du CSS sont des mesures qui ont une relation avec des modifications concernant la taille ou la longueur des éléments d’une page web. Voici la spécificité de chaque élément :
@@ -29,7 +27,7 @@
 
 - _Trouvez une API et expliquez-moi à quoi sert-elle et donnez-moi le lien de sa documentation (hors API vue en cours : PokeAPI)._
 <br><ins>Réponse</ins> : L’API trouvée : API de TMDB (The Movie Database). Cette API est un système qui permet aux personnes intéressées d'accéder et d'utiliser de manière programmatique des données et/ou des images appartenant à TMDB : films, programmes télévisés, images d'acteurs. Les personnes intéressées pourront donc utiliser ces données dans leurs applications.
-Voici le lien de sa documentation (version 3 de l’API « The Movie Database (TMDB) »): [https://developers.themoviedb.org/3/getting-started/introduction](https://developers.themoviedb.org/3/getting-started/introduction)
+<br>Voici le lien de sa documentation (version 3 de l’API « The Movie Database (TMDB) »): [https://developers.themoviedb.org/3/getting-started/introduction](https://developers.themoviedb.org/3/getting-started/introduction)
 
 - _Qu'est-ce qu'un "Commit" ?_
 <br><ins>Réponse</ins> : « Commit » est une des actions possibles de réaliser dans le logiciel de gestion de version « Git ». Il s’agit de l’action de mettre ou intégrer le code que l’on produit sur Git. Cette intégration de code, souvent accompagné d’un message explicatif facultatif de la part de l’utilisateur, a la caractéristique particulière d’avoir un numéro d’identification (un numéro de commit) que lui est attaché. Cela permet de constituer l’historique du code soumis dans un projet, et d’éventuellement pouvoir revenir à des versions antérieures du code si besoin (par exemple, en cas d’un code erroné dans un commit plus récent).
