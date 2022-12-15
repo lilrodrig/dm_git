@@ -5,21 +5,21 @@
 - _À quoi sert un terminal ?_
 <br><ins>Réponse</ins> : Un terminal sert comme point d’accès de l’utilisateur à un ordinateur ou réseau d’ordinateurs, ou à un serveur. Même si une GUI ((Graphique User Interface)) a cette même fonction, pour certaines tâches l’accès via GUI n’est pas disponible ou même cette option GUI n’existe pas du tout. L’accès via terminal peut donc être plus complet, avec une plus grande gamme de possibilités, que celle offerte par une GUI, quand une GUI est disponible. Un autre aspect couvert par un terminal, mais pas par une GUI, est la possibilité d’automatisation de tâches, ce qui se fait à travers de la programmation et qui peut, pour se faire, faire appel à un terminal.
 
-- _Donnez 3 exemples d'éléments de mise en page de fichier README.md et décrivez leur utilité_
+- _Donnez 3 exemples d'éléments de mise en page de fichier README.md et décrivez leur utilité._
 <br><ins>Réponse</ins> : Voici 3 exemples d’éléments de mise en page faits avec un markdown et l’effet dans le style du texte affiché qu’en découle :
     1) Les balises astérisque ou étoile simple (\*) placées avant et après la chaîne de caractères cible remettra cette chaîne de caractères en italique. Le underscore (\_) peut être utilisé à la place de l’étoile simple pour produire le même effet. Exemple :
 <br>\*cahier\* produira _cahier_
 <br>\_cahier\_ produira également _cahier_
     2) Les balises astérisques ou étoiles doubles (\*\*) placées avant et après la chaîne de caractères cible remettra cette chaîne de caractères en gras. Exemple :
 <br>\*\*cahier\*\* produira **cahier**
-    3) Placer la balise chevron (>) avant une chaîne de caractères remettra cette chaîne dans le style de citation. Visuellement, la citation se voit par une barre grise devant le texte qui apparaît avec une indentation par rapport au début de page (c'est-à-dire, par rapport à l’alignement des textes sans mise en forme particulière, par exemple sans forme de citation ou de liste). Exemple :
+    3) Placer la balise chevron (>) avant une chaîne de caractères remettra cette chaîne dans le style de citation. Visuellement, la citation se voit par une barre verticale grise devant le texte qui apparaît également en gris avec une indentation par rapport au début de page (c'est-à-dire, par rapport à l’alignement des textes sans mise en forme particulière, par exemple sans forme de citation ou de liste). Exemple :
         <br>\> « Faites que le rêve dévore votre vie afin que la vie ne dévore pas votre rêve. »
-<br><font size="2">__(Antoine de Saint-Exupéry, « Le petit prince »)</font>
+<br>__(Antoine de Saint-Exupéry, « Le petit prince »)</font>
 
        produira
 
-   <br>> « Faites que le rêve dévore votre vie afin que la vie ne dévore pas votre rêve. »
-<br><font size="2">__(Antoine de Saint-Exupéry, « Le petit prince »)</font>
+> « Faites que le rêve dévore votre vie afin que la vie ne dévore pas votre rêve. »
+<br>__(Antoine de Saint-Exupéry, « Le petit prince »)
 
 - _À quoi correspondent les unités suivantes : PX, VW et EM ? Donnez le plus de détails possible._
 <br><ins>Réponse</ins> : PX, VW et EM sont des éléments d’un fichier CSS, qui est un fichier de modification de l’apparence des éléments d’une page web. Ces éléments du CSS sont des mesures qui ont une relation avec des modifications concernant la taille ou la longueur des éléments d’une page web. Voici la spécificité de chaque élément :
