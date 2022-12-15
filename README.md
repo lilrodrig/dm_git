@@ -3,7 +3,7 @@
 ## Réponses de la partie 1 : "<ins>Questions de cours</ins>"
 
 - _À quoi sert un terminal ?_
-<br><ins>Réponse</ins> : Un terminal sert comme point d’accès de l’utilisateur à un ordinateur ou réseau d’ordinateurs, ou à un serveur. Même si une GUI ((Graphique User Interface)) a cette même fonction, pour certaines tâches l’accès via GUI n’est pas disponible ou même cette option GUI n’existe pas du tout. L’accès via terminal peut donc être plus complet, avec une plus grande gamme de possibilités, que celle offerte par une GUI, quand une GUI est disponible. Un autre aspect couvert par un terminal, mais pas par une GUI, est la possibilité d’automatisation de tâches, ce qui se fait à travers de la programmation et qui peut, pour se faire, faire appel à un terminal.
+<br><ins>Réponse</ins> : Un terminal sert comme point d’accès de l’utilisateur à un ordinateur ou réseau d’ordinateurs, ou à un serveur. Même si une GUI (Graphique User Interface) a cette même fonction, pour certaines tâches l’accès via GUI n’est pas disponible ou même cette option GUI n’existe pas du tout. L’accès via terminal peut donc être plus complet, avec une plus grande gamme de possibilités, que celle offerte par une GUI, quand une GUI est disponible. Un autre aspect couvert par un terminal, mais pas par une GUI, est la possibilité d’automatisation de tâches, ce qui se fait à travers de la programmation et qui peut, pour se faire, faire appel à un terminal.
 
 - _Donnez 3 exemples d'éléments de mise en page de fichier README.md et décrivez leur utilité._
 <br><ins>Réponse</ins> : Voici 3 exemples d’éléments de mise en page faits avec un markdown et l’effet dans le style du texte affiché qu’en découle :
