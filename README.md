@@ -22,7 +22,7 @@
 - _À quoi correspondent les unités suivantes : PX, VW et EM ? Donnez le plus de détails possible._
 <br><ins>Réponse</ins> : PX, VW et EM sont des éléments d’un fichier CSS, qui est un fichier de modification de l’apparence des éléments d’une page web. Ces éléments du fichier CSS sont des mesures qui ont une relation avec des modifications concernant la taille ou la longueur des éléments d’une page web. Voici la spécificité de chaque élément :
     1) PX : pixel. C’est une mesure absolue, il s’agit de l’unité « absolue » de tous les éléments d’une page web. Plus précisément, la taille d’un pixel varie pour chaque écran (elle est une mesure relative au DPI - dots per inch/ pixels par pouce et à la résolution de l’écran), mais elle est considérée absolue dans le sens où elle ne varie pas en fonction d’autres éléments ou mesures de taille.
-    2) EM : C’est une mesure relative qui indique la taille d’un élément relative à celle d’un élément parent. Cette relation ou proportion entre EM et PX s’observe : 1EM = 16PX.
+    2) EM : C’est une mesure relative qui indique la taille d’un élément relative à celle d’un élément parent. Cette relation ou proportion entre EM et PX est observée : 1EM = 16PX.
     3) VW : view width. C’est une mesure relative par rapport à la largeur de l’écran, qui indique une mesure de largeur de la taille de l’écran. Cette relation est observée : 100VW = 100 % de la taille de l’écran dans sa largeur.
 
 - _Trouvez une API et expliquez-moi à quoi sert-elle et donnez-moi le lien de sa documentation (hors API vue en cours : PokeAPI)._
